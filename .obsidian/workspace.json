@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "72c5249816c424d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62802653656381c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b55c7c5ceaae7229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Permanent/Books reading list.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8809d28e94ee761",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f59e9bb3fde91d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9cb5d9d565d003",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6a44470ee08f7fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4314f6bb9a57d833",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d0bf7d97c6894af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0713905dca9269fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3416ce2dba434992",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Permanent/Books reading list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73a9dec6d8ee083c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 Permanent/Books reading list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8275b7d924ceb85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f9260868cd2607db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 Permanent/Books reading list.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b55c7c5ceaae7229",
+  "lastOpenFiles": [
+    "~/Documents",
+    "~",
+    "1 Permanent/Home.md",
+    "1 Permanent/Books reading list.md",
+    "0 Fleeting",
+    "1 Permanent",
+    "In.md"
+  ]
+}
